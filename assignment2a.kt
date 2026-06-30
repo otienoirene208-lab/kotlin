@@ -2,10 +2,10 @@ fun main(){
     val age =16
 
 
-    if(number> 18){
+    if(age > 18){
         println("you can vote")
     }
-    else if(number <18){
+    else if(age < 18){
         println("you can vote")
     }
     else{
